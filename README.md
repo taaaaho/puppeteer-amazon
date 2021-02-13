@@ -1,8 +1,8 @@
 # puppeteer-amaon
 
-
+## How to use
 - yarn 
 - node amazon.js
 
-## 概要
-Amazonでひたすらギフトカードを自動購入するスクリプト
+## Behavior
+Amazonでギフトカードを自動購入するスクリプト
