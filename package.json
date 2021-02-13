@@ -1,5 +1,8 @@
 {
+  "scripts": {
+    "buy": "node ./src/amazon.js"
+  },
   "dependencies": {
-    "puppeteer": "^1.11.0"
+    "puppeteer": "^7.1.0"
   }
 }
